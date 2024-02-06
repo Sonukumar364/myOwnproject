@@ -1,0 +1,26 @@
+[
+  {
+    "fullName": "Rohit Sharma",
+    "email": "lpu@gmail.com",
+    "password": "1234567",
+    "id": 12
+  },
+  {
+    "fullName": "Aditya Kumar",
+    "email": "adk@gmail.com",
+    "password": "2345678",
+    "id": 62
+  },
+  {
+    "fullName": "Kumar Shivam",
+    "email": "shivam110721@gmail.com",
+    "password": "123333333",
+    "id": 516
+  },
+  {
+    "fullName": "Sonu Gupta",
+    "email": "sonukumargupta2002@gmail.com",
+    "password": "123456",
+    "id": 364
+  }
+]
